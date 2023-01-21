@@ -7,30 +7,38 @@ Finding a pattern of association among the indicators of the given dataset using
 
 ### Data collection and preparation
 
-For this project, we will use the SDG 5 dataset of the United Nations. This Dataset is cleaned and pre-processed. All the parameters of this dataset are renamed to I1, I2, I3, and so on. for ease of doing data analysis.  
+For this project, we will use the SDG 5 dataset of the United Nations. This Dataset is cleaned and pre-processed. All the parameters of this dataset are renamed to I1, I2, I3, and so on. for ease of doing data analysis. 
+<br />
+<br />
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEg75PMRn1gURi9qLITiuBRFYlcy0JWwqxO_US9mgACVK6RHTu1vkRLw8OY4YbyJ9IFDV_26euBvIW7PXjp9kahv8J_qxBEx6e-QU5H2pdt8O9_R-PTVBEUIyN3rRlx2xPaW4uImdYaa1Y3clZcNDRHu2BX-an76sWE8Qbj_cqPhVv8FmwuA86-7Lxd3ew=w640-h86)](https://blogger.googleusercontent.com/img/a/AVvXsEg75PMRn1gURi9qLITiuBRFYlcy0JWwqxO_US9mgACVK6RHTu1vkRLw8OY4YbyJ9IFDV_26euBvIW7PXjp9kahv8J_qxBEx6e-QU5H2pdt8O9_R-PTVBEUIyN3rRlx2xPaW4uImdYaa1Y3clZcNDRHu2BX-an76sWE8Qbj_cqPhVv8FmwuA86-7Lxd3ew)  
 ### EDA
 
 1. Understanding the makeup of the data  
+<br />
+
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEia8NSw4WMpeZQVQOHQQZWSf9GlSx0lbyokQcMKMihqxuizB1GAaZE-tBIOi8BrOWuYlRNuLB0rgV-UV7v2RqFaVCSvxsTDrVFneO2IrvpVUU8tqqg6FRWaJBREw9lurGh4tD6-Jm3xm7kz8PIhIlihWuhvaLlex_-Ut3jiCzUv1URfxQ_Aj0brI4gCVA=w640-h168)](https://blogger.googleusercontent.com/img/a/AVvXsEia8NSw4WMpeZQVQOHQQZWSf9GlSx0lbyokQcMKMihqxuizB1GAaZE-tBIOi8BrOWuYlRNuLB0rgV-UV7v2RqFaVCSvxsTDrVFneO2IrvpVUU8tqqg6FRWaJBREw9lurGh4tD6-Jm3xm7kz8PIhIlihWuhvaLlex_-Ut3jiCzUv1URfxQ_Aj0brI4gCVA)  
   
 2. Understanding the Correlation between different parameters  
+<br />
+
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEgwO2lxlp4nfiLzLTq8BfBIjTsYFeWHiFuwJ-WuGaSfOz4DRH4HcWKnHMsoU_HQxsg_DSKUt3CWlHXew3i8YYqAzrGC-PwM6_1niRYe7EsRV-moKvBKLI9uqIs_Ya80BP45Fu3GCib7N2O-PDpFbBX2dW8oRyIXoeaRGpCXGgJoDDVrIpK4Ir8OcanbrA=w623-h179)](https://blogger.googleusercontent.com/img/a/AVvXsEgwO2lxlp4nfiLzLTq8BfBIjTsYFeWHiFuwJ-WuGaSfOz4DRH4HcWKnHMsoU_HQxsg_DSKUt3CWlHXew3i8YYqAzrGC-PwM6_1niRYe7EsRV-moKvBKLI9uqIs_Ya80BP45Fu3GCib7N2O-PDpFbBX2dW8oRyIXoeaRGpCXGgJoDDVrIpK4Ir8OcanbrA)  
   
   
 3. Box Plots
+<br />
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEjWAN1hzWQf7gO-U8hwgQQDKGfzcQjA1Zh-VwdQ-Pl0ISJ1b_m2NAn4UBV8zBt9v8t9f-MoMRPezLEIb8cAK4uMbpccczRhSOo7CzldIVe7v-vD4TJOfW9BOqyfcsXaNpZQbQdnQCcy_fPs4utoWocv84_p__PI7mhJuh7EdGFRbE79ijnEPwZYlDQY9w)](https://blogger.googleusercontent.com/img/a/AVvXsEjWAN1hzWQf7gO-U8hwgQQDKGfzcQjA1Zh-VwdQ-Pl0ISJ1b_m2NAn4UBV8zBt9v8t9f-MoMRPezLEIb8cAK4uMbpccczRhSOo7CzldIVe7v-vD4TJOfW9BOqyfcsXaNpZQbQdnQCcy_fPs4utoWocv84_p__PI7mhJuh7EdGFRbE79ijnEPwZYlDQY9w)  
   
   
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEgazwMni4SqORAwnUQ8T1WRSKTI_VM9EICghCCFRs-82nC-CWaxowiSZm3A1gEmUBUa7gVxdeLYMhE_i8Z5E5HNxSOgnMOgCrh9RJv2U8aOh5LHPJQSh3vgflWcaim1pdYbPQDowwZj_ScUC9s8u_L17GuQsm3pVxQ31bG7o5ehcM9OjK8MR906tZ_Vfw)](https://blogger.googleusercontent.com/img/a/AVvXsEgazwMni4SqORAwnUQ8T1WRSKTI_VM9EICghCCFRs-82nC-CWaxowiSZm3A1gEmUBUa7gVxdeLYMhE_i8Z5E5HNxSOgnMOgCrh9RJv2U8aOh5LHPJQSh3vgflWcaim1pdYbPQDowwZj_ScUC9s8u_L17GuQsm3pVxQ31bG7o5ehcM9OjK8MR906tZ_Vfw)  
+
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEiIkCALNFbi7jxHceoLn2cZEy_YH1sLG-si66h4_7xHKu2ZxdWJnjU__kStvc-BQbSz934DZhUHiwfsIN0dnIscOli6kor1s-86CUBZ0fGy8SFUjLz4XTkHE0FgcTv1QtXsDlIW0XnzXzhkjniCWVVBGFgdjXxTqF7zfvBG6Ins1Flyvd6eI65kMVbzCQ)](https://blogger.googleusercontent.com/img/a/AVvXsEiIkCALNFbi7jxHceoLn2cZEy_YH1sLG-si66h4_7xHKu2ZxdWJnjU__kStvc-BQbSz934DZhUHiwfsIN0dnIscOli6kor1s-86CUBZ0fGy8SFUjLz4XTkHE0FgcTv1QtXsDlIW0XnzXzhkjniCWVVBGFgdjXxTqF7zfvBG6Ins1Flyvd6eI65kMVbzCQ)  
+
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEibcjFGiVaUCpa1r-JPTOD4HnZFBBQGUd80JXaYl8UXfSwzq2PaWzGgwxvl-IWtgSrJtXqfnA8-Aohbsje5gthj-Dd6oHbQSKDybmgbzyWL4bua2UrkHdHRVH9ozAxTZ2T7rO0HEITj_aslblK6bbS3FQMQ4HYEJoy9BWTXhW0V9ksP4hjmO1r8YetFVQ)](https://blogger.googleusercontent.com/img/a/AVvXsEibcjFGiVaUCpa1r-JPTOD4HnZFBBQGUd80JXaYl8UXfSwzq2PaWzGgwxvl-IWtgSrJtXqfnA8-Aohbsje5gthj-Dd6oHbQSKDybmgbzyWL4bua2UrkHdHRVH9ozAxTZ2T7rO0HEITj_aslblK6bbS3FQMQ4HYEJoy9BWTXhW0V9ksP4hjmO1r8YetFVQ)  
   
 
 
 ### Numerical rules generation using genetic algorithm
-
   
 For this purpose, we will use [quantminer](https://github.com/QuantMiner/QuantMiner)  
 After the rules are generated, I copy them to a Text file. This is what the text file looks like -   
