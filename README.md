@@ -1,5 +1,7 @@
 # Find-the-pattern-of-association-among-the-indicators
-Using NARM along with genetic algorithm to find the pattern of association among the indicators of dataset. for proper report, please go to  https://harnoorsingh2.blogspot.com/2023/01/using-narm-along-with-genetic-algorithm.html
+Using NARM along with genetic algorithm to find the pattern of association among the indicators of dataset. 
+
+For proper report, please go to  https://harnoorsingh2.blogspot.com/2023/01/using-narm-along-with-genetic-algorithm.html
 
 ### Objective
 
